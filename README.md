@@ -1,12 +1,16 @@
 Hi, I'm Zewdu Wondimagegn! 👋
+
 🚀 About Me
 I'm a full stack developer Alx student
 
 Economic Development Indicators Dashboard
+
 Economic Development Indicators Dashboard and Power Users have access to additional reporting features that allow them to assess government policy makers, economic stakeholders, and national planning activity on econzewdu.com web and data analyze users to your simplifed with a time series data.
 
 🔗 Links
-portfoliolinkedintwitter
+portfolio
+linkedin
+twitter
 
 Usage/Examples
 import Component from 'my-project'
